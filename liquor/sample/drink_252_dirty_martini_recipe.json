@@ -1,0 +1,31 @@
+{
+    "name": "Dirty Martini recipe",
+    "breadcrumb": "Cocktails > Short drinks > by base-ingredient > gin-based",
+    "description": "",
+    "instructions": "1. Place an ice cube and a small amount of water in a cocktail glass. Place in freezer for 2 - 3 minutes. \r<br><br>\n2. Fill a mixer with all ingredients including garnish. Cover and shake hard 3 - 4 times. \r<br><br>\n3. Remove cocktail glass from freezer, and empty. Strain contents of the mixer into the cocktail glass, include one of the olives, and serve with a mysterious smile.",
+    "ingredients": [
+        {
+            "amount": "2 oz",
+            "name": "gin"
+        },
+        {
+            "amount": "1 tbsp",
+            "name": "dry vermouth"
+        },
+        {
+            "amount": "2 tbsp",
+            "name": "olive juice"
+        },
+        {
+            "amount": "2 ",
+            "name": "olives"
+        }
+    ],
+    "rating": {
+        "number": "9.1",
+        "average": "4.6",
+        "votes": "587"
+    },
+    "glass": "glass",
+    "alcohol_content": "25%"
+}
