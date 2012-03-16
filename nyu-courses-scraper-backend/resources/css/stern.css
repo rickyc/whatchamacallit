@@ -1,0 +1,15 @@
+* { font: 'helvetica'; font-size: 14px; }
+body { margin: 2px; }
+.title { background-color: #CEBF83; float: left; width: 96px; padding: 5px; font-weight: bold; margin-bottom:1px; }
+.value { background-color: #F1E6B8; float: left; width: 200px; padding: 5px; margin-bottom:1px; }
+.clear { clear: both; }
+.header { width:306px; padding: 5px; text-align: center; font-weight: bold; margin-bottom:1px; }
+.sheader { width:62.2px; float: left; margin-left: 1px; text-align: center; font-weight: bold; padding: 5px 0 2px 0; margin-bottom:1px; }
+.dgold { background-color: #CEBF83; }
+.gold { background-color: #F1E6B8; }
+.evalTitle { width:306px; font-weight: bold; font-size: 16px; padding: 5px; }
+.half { width: 148px; padding: 5px; margin-bottom: 1px; }
+.full { width: 308px; padding: 5px; margin-bottom: 1px; }
+.left { float: left; }
+.right { float: right; }
+a { color: #99873D; font-weight: bold; text-decoration:underline; }

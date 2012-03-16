@@ -1,0 +1,39 @@
+html {
+    margin-top: -10px;
+    padding: 0px;
+    width: 320px;
+}
+body {
+    background-color: #f7f7f4;
+}
+* {
+    padding: 0px;
+    font-family: helvetica, sans-serif, serif;
+    font-size: 12px;
+}
+h1 {
+    margin-top: 15px;
+    font-size: 14px;
+}
+thead tr td, tfoot tr td {
+    background-color: #f5efea;
+}
+table {
+    margin: 0px;
+    background-color: #f7f7f4;
+    border: thin solid #b2b3ad;
+}
+.calTitle, thead tr td {
+    font-size: 16px;
+    padding: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+.termSch {
+    background-color: #ece9f0; 
+}
+td {
+    vertical-align: middle;
+    padding: 5px;
+    border: thin solid #CCC5A2;
+}
